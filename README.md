@@ -104,7 +104,7 @@ The Event code 4625 indicates an unsuccessful login attempt which happened many 
 
 
  
-Atomic Red Team was downloaded onto the target machine as a way to generate more telemetry. Invoke-AtomicTest T1136.001 (account-creation related) and T1059.001 (powershell-related), to generate some more data to look at on Splunk. Here we can see that it indeed generates logs for us to analyze and look at, originating from
+Atomic Red Team was downloaded onto the target machine as a way to generate more telemetry. Invoke-AtomicTest T1136.001 (account-creation related) and T1059.001 (powershell-related), to generate some more data to look at on Splunk. Here we can see that it indeed generates logs for us to analyze and look at, originating from the target machine and the ART tests.
 
 
 
